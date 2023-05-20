@@ -1,0 +1,47 @@
+Foodpanda Planing
+
+Pages
+  -> Home
+     - Delivary Page
+     - Dinning out page
+     - Nightlife page
+
+Auth / private Pages
+  -> profile 
+     - setting
+     - about
+     - etc
+
+Tech Stack
+  -> MongoDB as a database
+  -> AWS S3 as block storage for storing images
+  -> Open street map
+
+DataBase Planinig
+  -> Order
+  -> Users
+  -> Restaurants
+  -> Reviews
+  -> menus
+  -> images
+
+  100 Restarurants -> 100 Menu -> 100 foods -> 100 Review
+
+
+Authentication / authorization
+  -> JWT (JSON Web Token)
+
+Deployement
+  -> Git Repo -> Dockerize -> AWS
+
+
+API planning
+  -> Auth 
+  -> foods
+  -> Restarurants
+  -> Menu
+  -> Order
+  -> payments
+  -> Review
+  -> User
+  -> images
